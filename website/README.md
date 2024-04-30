@@ -1,2 +1,2 @@
-VisIT-Bench Website
-http://visit-bench.github.io/
+ImageInWords Website
+https://google.github.io/imageinwords
