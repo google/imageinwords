@@ -1,5 +1,6 @@
 <h2>ImageInWords: Unlocking Hyper-Detailed Image Descriptions</h2> 
 
+<img src="static/images/Abstract/1.png">
 <img src="static/images/Abstract/2.png">
 
 arXiv: 
