@@ -18,6 +18,7 @@ Please reach out to iiw-dataset@google.com for thoughts/feedback/questions/colla
 from datasets import load_dataset
 
 # `name` can be one of: IIW-400, DCI_Test, DOCCI_Test, CM_3600, LocNar_Eval
+# refer: https://github.com/google/imageinwords/blob/main/datasets/README.md
 dataset = load_dataset("google/imageinwords", token="YOUR_HF_ACCESS_TOKEN", name="IIW-400")
 ```
 
