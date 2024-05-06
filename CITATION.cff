@@ -1,52 +1,53 @@
+---
 cff-version: 1.2.0
-message: "If you use or reference this work, please cite it as below."
+message: If you use or reference this work, please cite it as below.
 authors:
-- family-names: "Garg"
-  given-names: "Roopal"
-- family-names: "Burns"
-  given-names: "Andrea"
-- family-names: "Karagol Ayan"
-  given-names: "Burcu"
-- family-names: "Bitton"
-  given-names: "Yonatan"
-- family-names: "Montgomery"
-  given-names: "Ceslee"
-- family-names: "Onoe"
-  given-names: "Yasumasa"
-- family-names: "Bunner"
-  given-names: "Andrew"
-- family-names: "Krishna"
-  given-names: "Ranjay"
-- family-names: "Baldridge"
-  given-names: "Jason"
-- family-names: "Soricut"
-  given-names: "Radu"
-title: "ImageInWords"
+  - family-names: Garg
+    given-names: Roopal
+  - family-names: Burns
+    given-names: Andrea
+  - family-names: Karagol Ayan
+    given-names: Burcu
+  - family-names: Bitton
+    given-names: Yonatan
+  - family-names: Montgomery
+    given-names: Ceslee
+  - family-names: Onoe
+    given-names: Yasumasa
+  - family-names: Bunner
+    given-names: Andrew
+  - family-names: Krishna
+    given-names: Ranjay
+  - family-names: Baldridge
+    given-names: Jason
+  - family-names: Soricut
+    given-names: Radu
+title: ImageInWords
 date-released: 2024-05-06
-url: "https://github.com/google/imageinwords"
+url: https://github.com/google/imageinwords
 preferred-citation:
   type: article
   authors:
-  - family-names: "Garg"
-  given-names: "Roopal"
-  - family-names: "Burns"
-  given-names: "Andrea"
-  - family-names: "Karagol Ayan"
-  given-names: "Burcu"
-  - family-names: "Bitton"
-  given-names: "Yonatan"
-  - family-names: "Montgomery"
-  given-names: "Ceslee"
-  - family-names: "Onoe"
-  given-names: "Yasumasa"
-  - family-names: "Bunner"
-  given-names: "Andrew"
-  - family-names: "Krishna"
-  given-names: "Ranjay"
-  - family-names: "Baldridge"
-  given-names: "Jason"
-  - family-names: "Soricut"
-  given-names: "Radu"
+    - family-names: Garg
+      given-names: Roopal
+    - family-names: Burns
+      given-names: Andrea
+    - family-names: Karagol Ayan
+      given-names: Burcu
+    - family-names: Bitton
+      given-names: Yonatan
+    - family-names: Montgomery
+      given-names: Ceslee
+    - family-names: Onoe
+      given-names: Yasumasa
+    - family-names: Bunner
+      given-names: Andrew
+    - family-names: Krishna
+      given-names: Ranjay
+    - family-names: Baldridge
+      given-names: Jason
+    - family-names: Soricut
+      given-names: Radu
   journal: "arXiv preprint arXiv:"
   title: "ImageInWords: Unlocking Hyper-Detailed Image Descriptions"
   year: 2024
