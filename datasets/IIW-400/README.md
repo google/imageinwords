@@ -9,7 +9,7 @@ The dataset is presented in `jsonl` format and consists of 400 images sampled fr
 | image/key   |   image identifier as defined in DOCCI's dataset  |
 
 
-### Detailed Image Descriptions
+### Detailed Image Descriptions (Annotation Task 2)
 
 | key       | interpretation | 
 | :-------- | :------ |
@@ -17,7 +17,7 @@ The dataset is presented in `jsonl` format and consists of 400 images sampled fr
 | IIW-P5B   |   machine generated description from a PaLI 5B finetuned model on IIW training set  |
 
 
-### Image Object Level Annotations
+### Image Object Level Annotations (Annotation Task 1)
 
 List of `json` object inside the `objects` key in the `jsonl` record. Each `json` object corresponds to one object in the image.
 
