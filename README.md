@@ -5,7 +5,7 @@
 
 arXiv: 
 
-Please visit the [webpage](https://google.github.io/imageinwords) for all the information about the IIW project, data downloads, visualizations, and much more.
+Please visit the [webpage](https://google.github.io/imageinwords) for all the information about the IIW project, data, visualizations, and much more. The data can be downloaded directly from the `datasets/` folder, as well as from Huggingface (see below).
 
 Please reach out to iiw-dataset@google.com for thoughts/feedback/questions/collaborations.
 
