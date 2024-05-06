@@ -25,7 +25,7 @@ List of `json` object inside the `objects` key in the `jsonl` record. Each `json
 | :-------- | :------ |
 | label | human-authored free form object identifier |
 | description | human-authored detailed object level description, taking the context of the image into account |
-| normalized_coords | normalized coordinates of the human-annotated bounding box in `(_ymin, x_min, y_max, x_max)` format and normalized on a scale `(0, 999)` |
+| normalized_coords | normalized coordinates of the human-annotated bounding box in `(y_min, x_min, y_max, x_max)` format and normalized on a scale `(0, 999)` |
 
 
 
