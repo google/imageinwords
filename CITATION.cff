@@ -27,6 +27,8 @@ date-released: 2024-05-06
 url: https://github.com/google/imageinwords
 preferred-citation:
   type: misc
+  title: "ImageInWords"
+  year: 2024
   authors:
     - family-names: Garg
       given-names: Roopal
