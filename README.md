@@ -26,4 +26,16 @@ dataset = load_dataset("google/imageinwords", token="YOUR_HF_ACCESS_TOKEN", name
 
 <li><a href="https://huggingface.co/spaces/google/imageinwords-explorer">Dataset-Explorer</a></li>
 
+<h3>Cite</h3>
 
+If you use our data or refer to our work, please include the following citation
+```
+@misc{garg2024imageinwords,
+      title={ImageInWords: Unlocking Hyper-Detailed Image Descriptions}, 
+      author={Roopal Garg and Andrea Burns and Burcu Karagol Ayan and Yonatan Bitton and Ceslee Montgomery and Yasumasa Onoe and Andrew Bunner and Ranjay Krishna and Jason Baldridge and Radu Soricut},
+      year={2024},
+      eprint={2405.02793},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
