@@ -10,6 +10,8 @@ Please visit the [webpage](https://google.github.io/imageinwords) for all the in
 
 Please reach out to iiw-dataset@google.com for thoughts/feedback/questions/collaborations.
 
+License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
 <h3>Other resources</h3>
 
 <h4>&#129303;Hugging Face&#129303;</h4>
