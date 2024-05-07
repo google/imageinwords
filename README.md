@@ -1,11 +1,12 @@
 <h2>ImageInWords: Unlocking Hyper-Detailed Image Descriptions</h2> 
 
-<img src="static/images/Abstract/1_white_background.png">
-<img src="static/images/Abstract/2_white_background.png">
-
 arXiv: https://arxiv.org/abs/2405.02793
 
 Please visit the [webpage](https://google.github.io/imageinwords) for all the information about the IIW project, data, visualizations, and much more. The data can be downloaded directly from the `datasets/` folder, as well as from Huggingface (see below).
+
+<img src="static/images/Abstract/1_white_background.png">
+<img src="static/images/Abstract/2_white_background.png">
+
 
 Please reach out to iiw-dataset@google.com for thoughts/feedback/questions/collaborations.
 
