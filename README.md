@@ -23,7 +23,7 @@ from datasets import load_dataset
 
 # `name` can be one of: IIW-400, DCI_Test, DOCCI_Test, CM_3600, LocNar_Eval
 # refer: https://github.com/google/imageinwords/blob/main/datasets/README.md
-dataset = load_dataset("google/imageinwords", token="YOUR_HF_ACCESS_TOKEN", name="IIW-400")
+dataset = load_dataset('google/imageinwords', token=None, name="IIW-400", trust_remote_code=True)
 ```
 
 <li><a href="https://huggingface.co/spaces/google/imageinwords-explorer">Dataset-Explorer</a></li>
