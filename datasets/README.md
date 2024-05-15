@@ -1,4 +1,4 @@
-## IIW: Datasets
+## IIW-Benchmark: Eval Datasets
 We release a subset of human- and model-annotated IIW image & descriptions, as well as human SxS results on Human Authored and Model-Human sourced pairs of descriptions. The model generated descriptions may have hallucinations, information recall losses, or non-human like writing style artifacts. By releasing this subset along with human SxS judgements, we encourage the development of new metrics and evaluation systems to detect them in an automated, scalable manner. It also promotes fair comparison across methods in future work. The set is released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 <b>Human Annotated</b> 
