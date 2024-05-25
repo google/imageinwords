@@ -16,7 +16,7 @@ License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <h4>&#129303;Hugging Face&#129303;</h4>
 
-<li><a href="https://huggingface.co/datasets/google/imageinwords">Dataset</a></li>
+<li><a href="https://huggingface.co/datasets/google/imageinwords">IIW-Benchmark Eval Dataset</a></li>
 
 ```python
 from datasets import load_dataset
